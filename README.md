@@ -1,2 +1,2 @@
 # test
-Hello World style Document to implement git in Workflow
+Hello World style document to implement git in workflow
